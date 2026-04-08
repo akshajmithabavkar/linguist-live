@@ -1,0 +1,5 @@
+{
+  "name": "Linguist Live",
+  "description": "Real-time voice transcription and translation assistant powered by Gemini.",
+  "requestFramePermissions": ["microphone"]
+}
